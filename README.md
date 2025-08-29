@@ -7,7 +7,12 @@
 기업의 입출고 및 재고 관리를 효율적으로 처리할 수 있는 웹 기반 시스템입니다.  
 직관적인 UI를 통해 누구나 쉽게 사용할 수 있으며,  
 관리자와 일반 사용자 권환을 분리해 각자의 작업을 효과적으로 해결할 수 있다.
-###  화면의 흐름 [상세보기](https://github.com/jongha8422-sketch/inoutmanager/blob/main/project/admin.md)
+###  화면의 흐름 
+  <details>
+  <summary>화면의 흐름및 구성</summary> <br>
+  <img src="https://github.com/jongha8422-sketch/inoutmanager/blob/main/PICTURES/%ED%99%94%EB%A9%B4%EC%9D%98%20%ED%9D%90%EB%A6%84.png" alt="로그인 UI" width="400"/> 
+  </details>
+
 ---
 
 ##  개발 기간  
