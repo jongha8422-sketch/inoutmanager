@@ -11,13 +11,13 @@
 
 ---
 ### ⚙️ 개발 환경
-- `Java 17`  
-- **Build Tool** : Gradle  
-- **IDE** : IntelliJ  
-- **Framework** : Spring Boot (3.5.5)  
-- **Database** : Oracle 18c 
-- **ORM** : JPA  
-- **Front** : html5, CSS, JavaScript  
+- **Programming Languages** : `Java 17`  
+- **Build Tool** : `Gradle`  
+- **IDE** : `IntelliJ`  
+- **Framework** : `Spring Boot (3.5.5)`  
+- **Database** : `Oracle 18c` 
+- **ORM** : `JPA`  
+- **Front** : `html5`, `CSS`, `JavaScript`  
 
 ---
 
