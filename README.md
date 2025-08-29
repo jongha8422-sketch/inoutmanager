@@ -23,29 +23,35 @@
 
 ## 📌 주요 기능  
 
-#### 🔐 로그인 & 회원가입<a href="https://github.com/jongha8422-sketch/inoutmanager/blob/main/login.md" >상세보기 - WIKI 이동</a>
+#### 🔐 로그인 & 회원가입<a href="https://github.com/jongha8422-sketch/inoutmanager/blob/main/project/login.md" >상세보기 - WIKI 이동</a>
 - DB값 검증 (아이디/비밀번호 체크)  
 - 로그인 시 세션(Session) 생성  
 - 관리자 / 일반 사용자 권한 분리  
 
-#### 👤 마이 페이지<a href="https://github.com/chaehyuenwoo/SpringBoot-Project-MEGABOX/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Login)" >상세보기 - WIKI 이동</a>
+#### 👤 마이 페이지<a href="https://github.com/jongha8422-sketch/inoutmanager/blob/main/project/mypage.md" >상세보기 - WIKI 이동</a>
 - 내 정보 조회 / 수정 (비밀번호 제외 ID 고정)  
 - 내 근태 내역 조회  
 
-#### 🕒 입고등록/조회<a href="https://github.com/chaehyuenwoo/SpringBoot-Project-MEGABOX/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Login)" >상세보기 - WIKI 이동</a>
+#### 🕒 입고등록/조회<a href="https://github.com/jongha8422-sketch/inoutmanager/blob/main/project/ibpage.md">상세보기 - WIKI 이동</a>
 - 출근/퇴근 버튼 클릭 시 DB에 기록  
 - 지각/조퇴 여부 자동 계산  
 - 근무 시간 누적 관리
 
-#### 🕒 출고등록/조회<a href="https://github.com/chaehyuenwoo/SpringBoot-Project-MEGABOX/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Login)" >상세보기 - WIKI 이동</a>
+#### 🕒 출고등록/조회<a href="https://github.com/jongha8422-sketch/inoutmanager/blob/main/project/obpage.md">상세보기 - WIKI 이동</a>
 - 출근/퇴근 버튼 클릭 시 DB에 기록  
 - 지각/조퇴 여부 자동 계산  
 - 근무 시간 누적 관리  
-#### 📑 관리자 페이지<a href="https://github.com/chaehyuenwoo/SpringBoot-Project-MEGABOX/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Login)" >상세보기 - WIKI 이동</a>
+#### 📑 관리자 페이지<a href="https://github.com/jongha8422-sketch/inoutmanager/blob/main/project/admin.md">상세보기 - WIKI 이동</a>
 - 직원 계정 관리 (추가/수정/삭제)  
 - 부서 관리 (대분류/소분류)  
 - 근태 통계 대시보드  
 - 출퇴근 기록 강제 수정(관리자 권한)  
+
+#### 👤 메인 페이지<a href="https://github.com/jongha8422-sketch/inoutmanager/blob/main/project/mainpage.md" >상세보기 - WIKI 이동</a>
+
+
+#### 👤 계시판<a href="https://github.com/jongha8422-sketch/inoutmanager/blob/main/project/boardpage.md" >상세보기 - WIKI 이동</a>
+
 
 ---
 
