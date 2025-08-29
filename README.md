@@ -22,6 +22,7 @@
 ---
 
 ## 📌 주요 기능  
+#### 👤 화면흐름<a href="https://github.com/jongha8422-sketch/inoutmanager/blob/main/project/boardpage.md" >-상세보기</a>
 
 #### 🔐 로그인 & 회원가입<a href="https://github.com/jongha8422-sketch/inoutmanager/blob/main/project/login.md" >-상세보기</a>
 - DB값 검증 (아이디/비밀번호 체크)  
