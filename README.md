@@ -23,7 +23,7 @@
 
 ## 📌 주요 기능  
 
-#### 🔐 로그인 & 회원가입<a href="https://github.com/chaehyuenwoo/SpringBoot-Project-MEGABOX/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Login)" >상세보기 - WIKI 이동</a>
+#### 🔐 로그인 & 회원가입<a href=https://github.com/jongha8422-sketch/inoutmanager/blob/main/login.md" >상세보기 - WIKI 이동</a>
 - DB값 검증 (아이디/비밀번호 체크)  
 - 로그인 시 세션(Session) 생성  
 - 관리자 / 일반 사용자 권한 분리  
