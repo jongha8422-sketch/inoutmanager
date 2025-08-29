@@ -10,7 +10,7 @@
 ###  화면의 흐름 
   <details>
   <summary>화면의 흐름및 구성</summary> <br>
-  <img src="https://github.com/jongha8422-sketch/inoutmanager/blob/main/PICTURES/%ED%9D%90%EB%A6%84.png" alt="로그인 UI" width="400"/> 
+  <img src="https://github.com/jongha8422-sketch/inoutmanager/blob/main/PICTURES/%ED%9D%90%EB%A6%84.png" alt="로그인 UI" width="800"/> 
   </details>
 
 ---
