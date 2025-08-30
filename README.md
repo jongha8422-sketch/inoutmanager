@@ -17,7 +17,7 @@ Spring Boot + JSP ベースの入出庫管理システム
 ###  DBテーブル設計 
 <details>
   <summary>詳細を見る</summary> <br>
-  <img src="https://github.com/jongha8422-sketch/inoutmanager/blob/main/PICTURES/%ED%99%94%EB%A9%B4%EC%9D%98%20%EC%A7%84%EC%9E%90%ED%9D%90%EB%A6%84.png" alt="画面フロー" width="800"/> 
+  <img src="https://github.com/jongha8422-sketch/inoutmanager/blob/main/PICTURES/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%84%A4%EA%B3%84.png" width="800"/> 
 </details>
 
 ### ERD 
