@@ -31,9 +31,9 @@
 </details>
 
 <details>
-  <summary> 📑 出庫履歴 Excel出力</summary><br>
+  <summary>  出庫履歴 Excel出力</summary><br>
   <p align="center">
-    <img src="https://github.com/jongha8422-sketch/inoutmanager/blob/main/PICTURES/%EC%B6%9C%EA%B3%A0%20%EC%95%A1%EC%85%80%EC%B6%9C%EB%A0%A5.png" alt="出庫履歴Excel出力" width="400"/> 
+    <img src="https://github.com/jongha8422-sketch/inoutmanager/blob/main/PICTURES/%EC%B6%9C%EA%B3%A0%EC%97%91%EC%85%80.png" alt="出庫履歴Excel出力" width="400"/> 
   </p>
   <p align="center"> 出庫履歴をExcelファイルとして抽出し、管理・報告に活用 </p>
 </details>
