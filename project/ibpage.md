@@ -33,7 +33,7 @@
 <details>
   <summary> Excel出力</summary><br>
   <p align="center">
-    <img src="https://github.com/jongha8422-sketch/inoutmanager/blob/main/PICTURES/%EC%9E%85%EA%B3%A0%20%EC%95%A1%EC%85%80%EC%B6%9C%EB%A0%A5.png" alt="入庫Excel出力" width="400"/> 
+    <img src="https://github.com/jongha8422-sketch/inoutmanager/blob/main/PICTURES/%EC%A7%84%EC%A7%9C%20%EC%9E%85%EA%B3%A0%20%EC%97%91%EC%85%80.png" alt="入庫Excel出力" width="400"/> 
   </p>
   <p align="center"> 入庫データをExcelに出力し、バックアップおよび報告に活用 </p>
 </details>
