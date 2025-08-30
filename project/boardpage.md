@@ -1,4 +1,4 @@
-###  게시판 [상세보기](https://github.com/jongha8422-sketch/inoutmanager/blob/main/project/boardpage.md)
+###  게시판 
 - 고객 문의 및 피드백 관리  
 - 관리자 게시글 수정/삭제 기능  
 - 게시글 제목 및 히스토리 확인
