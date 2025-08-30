@@ -11,7 +11,7 @@ Spring Boot + JSP ベースの入出庫管理システム
 ###  画面の流れ 
 <details>
   <summary>詳細を見る</summary> <br>
-  <img src="https://github.com/jongha8422-sketch/inoutmanager/blob/main/PICTURES/%ED%9D%90%EB%A6%84.png" alt="画面フロー" width="800"/> 
+  <img src="https://github.com/jongha8422-sketch/inoutmanager/blob/main/PICTURES/%ED%99%94%EB%A9%B4%EC%9D%98%20%EC%A7%84%EC%9E%90%ED%9D%90%EB%A6%84.png" alt="画面フロー" width="800"/> 
 </details>
 
 ---
