@@ -1,49 +1,51 @@
-##  마이 페이지
+##  マイページ
 
-> **내 정보 관리 및 업무 기록 확인 페이지**  
-> 회원가입 시 등록한 정보를 기반으로 개인화된 데이터를 조회 및 수정할 수 있습니다.  
-> 또한 입출고 기록과 담당 내역을 확인하고, 데이터를 **Excel로 추출한 기록,시각화**하여 관리 효율을 높일 수 있습니다.
-> **내 개인정보**를 수정하는 것도 가능하며 내가 여태까지 작성한 **입 출고 내용**을 확인 가능합니다. 마지막으로 **개시판에 작성한 내용**도 수정 삭제가 가능합니다
-
----
-### 주요 기능
--  **내 정보 조회/수정** → ID는 고정, 비밀번호 수정 불가
--  **입출고 기록 확인** → 신규등록 시 작성한 이름을 기반으로 데이터 조회
--  **Excel 추출 기록 확인** → 데이터 관리에 용이
--  **게시판 관리** → 게시글 수정 및 삭제 가능
+> **自分の情報管理と業務記録確認ページ**  
+> 会員登録時に入力した情報を基に、個人の最適なデータを照会・修正。  
+> 入出庫記録や担当履歴を確認し、データを **Excelに出力・可視化** して管理。  
+> **個人情報**の修正が可能で、これまで作成した **入出庫内容** を確認。  
+> 最後に、自分が **掲示板に投稿した内容** も修正・削除可能。  
 
 ---
 
+###  主な機能
+- **個人情報の照会/修正** → IDは固定、名前修正不可  
+- **入出庫記録の確認** → 新規登録時に入力した氏名を基にデータ照会  
+- **Excel出力記録** → データ管理に活用可能  
+- **掲示板管理** → 投稿の修正および削除が可能  
+
+---
+
 <details>
-  <summary> 개인정보 수정</summary><br>
+  <summary>個人情報修正</summary><br>
   <p align="center">
-    <img src="https://github.com/jongha8422-sketch/inoutmanager/blob/main/PICTURES/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%20%EC%88%98%EC%A0%95.png" alt="개인정보 수정" width="400"/> 
+    <img src="https://github.com/jongha8422-sketch/inoutmanager/blob/main/PICTURES/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%20%EC%88%98%EC%A0%95.png" alt="個人情報修正" width="400"/> 
   </p>
-  <p align="center"> 사용자 정보 수정 (ID 고정, 비밀번호 제외)</p>
+  <p align="center"> ユーザー情報修正（ID固定、名修正不可） </p>
 </details>
 
 <details>
-  <summary> 엑셀 출력</summary><br>
+  <summary>Excel照会</summary><br>
   <p align="center">
-    <img src="https://github.com/jongha8422-sketch/inoutmanager/blob/main/PICTURES/%EC%97%91%EC%85%80%EC%B6%9C%EB%A0%A5.png" alt="엑셀 출력" width="400"/> 
+    <img src="https://github.com/jongha8422-sketch/inoutmanager/blob/main/PICTURES/%EC%97%91%EC%85%80%EC%B6%9C%EB%A0%A5.png" alt="Excel出力" width="400"/> 
   </p>
-  <p align="center"> 입출고 데이터 Excel 파일로 추출 가능</p>
+  <p align="center"> 入出庫データをExcelファイルで抽出内訳を照会 </p>
 </details>
 
 <details>
-  <summary> 입출고 내역 확인</summary><br>
+  <summary>入出庫履歴確認</summary><br>
   <p align="center">
-    <img src="https://github.com/jongha8422-sketch/inoutmanager/blob/main/PICTURES/%EC%9E%85%EC%B6%9C%EA%B3%A0%20%EB%82%B4%EC%97%AD%ED%99%95%EC%9D%B8.png" alt="입출고 내역 확인" width="400"/> 
+    <img src="https://github.com/jongha8422-sketch/inoutmanager/blob/main/PICTURES/%EC%9E%85%EC%B6%9C%EA%B3%A0%20%EB%82%B4%EC%97%AD%ED%99%95%EC%9D%B8.png" alt="入出庫履歴確認" width="400"/> 
   </p>
-  <p align="center"> 개인 담당 내역과 입출고 기록 실시간 확인</p>
+  <p align="center"> 個人の担当履歴および入出庫記録を確認 </p>
 </details>
 
 <details>
-  <summary> 게시판 수정 및 삭제</summary><br>
+  <summary>掲示板の修正・削除</summary><br>
   <p align="center">
-    <img src="https://github.com/jongha8422-sketch/inoutmanager/blob/main/PICTURES/%EA%B2%8C%EC%8B%9C%ED%8C%90%20%EC%88%98%EC%A0%95%20%EB%B0%8F%20%EC%82%AD%EC%A0%9C.png" alt="게시판 수정 및 삭제" width="400"/> 
+    <img src="https://github.com/jongha8422-sketch/inoutmanager/blob/main/PICTURES/%EA%B2%8C%EC%8B%9C%ED%8C%90%20%EC%88%98%EC%A0%95%20%EB%B0%8F%20%EC%82%AD%EC%A0%9C.png" alt="掲示板修正・削除" width="400"/> 
   </p>
-  <p align="center"> 게시글 수정 및 삭제를 통해 데이터 최신화</p>
+  <p align="center"> 投稿を修正・削除し、データを最新化 </p>
 </details>
 
 ---
