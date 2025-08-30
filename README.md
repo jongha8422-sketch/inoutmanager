@@ -1,89 +1,91 @@
 # InOutManager  
-스프링 부트 + JSP 기반 입출고 관리 시스템
+Spring Boot + JSP ベースの入出庫管理システム
 
 ---
 
-##  프로젝트 소개  
-기업의 입출고 및 재고 관리를 효율적으로 처리할 수 있는 웹 기반 시스템입니다.  
-직관적인 UI를 통해 누구나 쉽게 사용할 수 있으며,  
-관리자와 일반 사용자 권환을 분리해 각자의 작업을 효과적으로 해결할 수 있다.
-###  화면의 흐름 
-  <details>
-  <summary>화면의 흐름및 구성</summary> <br>
-  <img src="https://github.com/jongha8422-sketch/inoutmanager/blob/main/PICTURES/%ED%9D%90%EB%A6%84.png" alt="로그인 UI" width="800"/> 
-  </details>
+##  プロジェクト紹介  
+企業の入出庫および在庫管理を効率的に処理できるウェブベースのシステム。  
+誰でも簡単に利用  
+管理者と一般ユーザーの権限を分離することで、それぞれの作業を効果的に実行。  
+
+###  画面の流れ 
+<details>
+  <summary>詳細を見る</summary> <br>
+  <img src="https://github.com/jongha8422-sketch/inoutmanager/blob/main/PICTURES/%ED%9D%90%EB%A6%84.png" alt="画面フロー" width="800"/> 
+</details>
 
 ---
 
-##  개발 기간  
-- **2025.08.26 ~ 진행 중**
+##  開発期間  
+- **2025.08.26 ～ 開発中**
 
 ---
 
-##  개발 환경  
+##  開発環境  
 
-- **Programming Languages** : `Java 17`  
-- **Build Tool** : `Gradle`  
+- **プログラミング言語** : `Java 17`  
+- **ビルドツール** : `Gradle`  
 - **IDE** : `IntelliJ`  
-- **Framework** : `Spring Boot (3.5.5)`  
-- **Database** : `Oracle 18c` 
+- **フレームワーク** : `Spring Boot (3.5.5)`  
+- **データベース** : `Oracle 18c` 
 - **ORM** : `JPA`  
-- **Front** : `html5`, `CSS`, `JavaScript`  
----
-
-##  주요 기능  
-
-###  로그인 & 회원가입 [상세보기](https://github.com/jongha8422-sketch/inoutmanager/blob/main/project/login.md)
-- 아이디/비밀번호 DB 검증  
-- 로그인 시 세션 생성  
-- 관리자 / 일반 사용자 권한 분리  
-- 신규등록 시 정보를 다양성 있도록 사용하는 것이 가능
+- **フロントエンド** : `HTML5`, `CSS`, `JavaScript`  
 
 ---
 
-###  마이 페이지 [상세보기](https://github.com/jongha8422-sketch/inoutmanager/blob/main/project/mypage.md)
-- 내 정보 조회 및 수정 (ID 고정, 비밀번호 제외)  
-- 입출고 기록 및 담당 내역 확인 (신규등록 시 이름을 적은 것 바탕) 
-- Excel 추출 기능 및 작업 기록 시각화  
+##  主な機能  
+
+###  ログイン & 新規登録 [詳細を見る](https://github.com/jongha8422-sketch/inoutmanager/blob/main/project/login.md)
+- ID / パスワードのDB検証  
+- ログイン時にセッション生成  
+- 管理者 / 一般ユーザーの権限分離  
+- 新規登録時に多様な情報を利用可能  
 
 ---
 
-###  입고 등록/조회 [상세보기](https://github.com/jongha8422-sketch/inoutmanager/blob/main/project/ibpage.md)
-- 제품 코드, 수량, 공급처 등 상세 정보 입력  
-- 입고 상태 확인  
-- 입출고량 추적 및 Excel 출력  
+###  マイページ [詳細を見る](https://github.com/jongha8422-sketch/inoutmanager/blob/main/project/mypage.md)
+- 自分の情報の確認および修正（ID固定、パスワード除く）  
+- 入出庫記録および担当履歴の確認（新規登録時の氏名を基に表示）  
+- Excel出力機能および作業記録の可視化  
 
 ---
 
-###  출고 등록/조회 [상세보기](https://github.com/jongha8422-sketch/inoutmanager/blob/main/project/obpage.md)
-- 입고 상품 선택 후 출고 처리  
-- 출고 정보 입력 및 발송 처리  
-- 입출고량 추적 및 Excel 출력  
+###  入庫登録/照会 [詳細を見る](https://github.com/jongha8422-sketch/inoutmanager/blob/main/project/ibpage.md)
+- 製品コード、数量、供給元などの詳細情報入力  
+- 入庫状態の確認  
+- 入出庫量の追跡およびExcel出力  
 
 ---
 
-###  관리자 페이지 [상세보기](https://github.com/jongha8422-sketch/inoutmanager/blob/main/project/admin.md)
-- 모든 입출고 기록 확인가능 
-- 모든 게시글 수정 및 삭제가능 
-- 사용자의 정보 확인/유저삭제 가능
+###  出庫登録/照会 [詳細を見る](https://github.com/jongha8422-sketch/inoutmanager/blob/main/project/obpage.md)
+- 入庫済み商品の選択後に出庫処理  
+- 出庫情報入力および発送処理  
+- 入出庫量の追跡およびExcel出力  
 
 ---
 
-###  메인 페이지 [상세보기](https://github.com/jongha8422-sketch/inoutmanager/blob/main/project/mainpage.md)
-- 모든 기능을 한 눈에 확인 가능 
-- 심플한 디자인으로 누구나 싶게 적응 가능
+###  管理者ページ [詳細を見る](https://github.com/jongha8422-sketch/inoutmanager/blob/main/project/admin.md)
+- すべての入出庫記録の確認  
+- すべての掲示板投稿の修正および削除  
+- ユーザー情報の確認およびユーザー削除  
 
 ---
 
-###  게시판 [상세보기](https://github.com/jongha8422-sketch/inoutmanager/blob/main/project/boardpage.md)
-- 고객 문의 및 피드백 관리  
-- 관리자 게시글 수정/삭제 기능  
-- 게시글 제목 및 히스토리 확인  
+###  メインページ [詳細を見る](https://github.com/jongha8422-sketch/inoutmanager/blob/main/project/mainpage.md)
+- すべての機能を一目で確認可能  
+- シンプルなデザインで誰でも簡単に操作可能  
 
 ---
 
-##  기술적 특징  
+###  掲示板 [詳細を見る](https://github.com/jongha8422-sketch/inoutmanager/blob/main/project/boardpage.md)
+- 顧客からの問い合わせおよびフィードバック管理  
+- 管理者による投稿の修正/削除機能  
+- 投稿タイトルおよび履歴の確認  
 
--  **UI**: 누구나 쉽게 사용할 수 있는 사용자 친화적 디자인  
--  **권한 관리**: 사용자별 접근 권한 설정 및 제어  
--  **Excel 출력**: 입출고 내역 및 재고 정보를 문서로 저장 가능  
+---
+
+##  技術的特徴  
+
+- **UI**: 誰でも簡単に利用できるユーザーフレンドリーなデザイン  
+- **権限管理**: ユーザーごとのアクセス権限設定と制御  
+- **Excel出力**: 入出庫履歴および在庫情報をドキュメントとして保存可能  
