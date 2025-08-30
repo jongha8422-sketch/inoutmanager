@@ -1,59 +1,58 @@
-##  관리 페이지 (Admin Page)
+## 🛠 管理ページ (Admin Page)
 
-> **관리자를 위한 통합 관리 페이지**  
-> 모든 입출고 기록, 게시판, 사용자 정보를 한눈에 확인하고 관리할 수 있습니다.  
-> 관리자 권한을 통해 사용자 삭제, 게시글 관리, 제품 수량 확인 및 정보 수정이 가능합니다.  
-
----
-
-###  주요 기능
--  **유저 관리** → 사용자 정보 확인 및 계정 삭제 가능  
--  **게시판 관리** → 모든 게시글 수정 및 삭제  
--  **입출고 내역 관리** → 전체 입출고 데이터 확인  
--  **제품 현황 파악** → 현재 등록된 제품 수 확인  
--  **관리자 정보 수정** → 관리자 계정 정보 변경 가능  
+> **管理者向け統合管理ページ**  
+> すべての入出庫記録、掲示板、ユーザー情報を一目で確認・管理。  
+> 管理者権限により、ユーザー削除、掲示板管理、製品数量確認および情報修正が可能。  
 
 ---
 
-<details>
-  <summary> 유저 관리</summary><br>
-  <p align="center">
-    <img src="https://github.com/jongha8422-sketch/inoutmanager/blob/main/PICTURES/%EC%9C%A0%EC%A0%80%EA%B4%80%EB%A6%AC.png" alt="유저 관리" width="400"/> 
-  </p>
-  <p align="center"> 사용자 계정 정보 확인 및 필요 시 삭제 가능</p>
-</details>
-
-<details>
-  <summary> 게시판 관리</summary><br>
-  <p align="center">
-    <img src="https://github.com/jongha8422-sketch/inoutmanager/blob/main/PICTURES/%EA%B2%8C%EC%8B%9C%ED%8C%90%20%EA%B4%80%EB%A6%AC.png" alt="게시판 관리" width="400"/> 
-  </p>
-  <p align="center"> 모든 게시글을 수정하거나 삭제 가능</p>
-</details>
-
-<details>
-  <summary> 입출고 내역 관리</summary><br>
-  <p align="center">
-    <img src="https://github.com/jongha8422-sketch/inoutmanager/blob/main/PICTURES/%EC%9E%85%EC%B6%9C%EA%B3%A0%20%EB%82%B4%EC%97%AD%20%EA%B4%80%EB%A6%AC.png" alt="입출고 내역 관리" width="400"/> 
-  </p>
-  <p align="center"> 입고 및 출고 내역 전체를 관리자가 확인</p>
-</details>
-
-<details>
-  <summary> 현재 등록된 제품 수</summary><br>
-  <p align="center">
-    <img src="https://github.com/jongha8422-sketch/inoutmanager/blob/main/PICTURES/%ED%98%84%EC%9E%AC%20%EB%93%B1%EB%A1%9D%EB%90%98%EC%96%B4%EC%9E%88%EB%8A%94%20%EC%A0%9C%ED%92%88%20%EC%88%98.png" alt="현재 등록된 제품 수" width="400"/> 
-  </p>
-  <p align="center"> 현재 시스템에 등록된 제품 총 개수 확인</p>
-</details>
-
-<details>
-  <summary> 관리자 정보 수정</summary><br>
-  <p align="center">
-    <img src="https://github.com/jongha8422-sketch/inoutmanager/blob/main/PICTURES/%EA%B4%80%EB%A6%AC%EC%9E%90%20%EC%A0%95%EB%B3%B4%20%EC%88%98%EC%A0%95.png" alt="관리자 정보 수정" width="400"/> 
-  </p>
-  <p align="center"> 관리자 계정 정보(비밀번호, 이메일 등) 변경 가능</p>
-</details>
+### 📌 主な機能
+- **ユーザー管理** → ユーザー情報確認およびアカウント削除  
+- **掲示板管理** → すべての投稿を編集および削除可能  
+- **入出庫履歴管理** → 全体の入出庫データ確認  
+- **製品現況把握** → 現在登録されている製品数を確認  
+- **管理者情報修正** → 管理者アカウント情報の変更可能  
 
 ---
 
+<details>
+  <summary> ユーザー管理</summary><br>
+  <p align="center">
+    <img src="https://github.com/jongha8422-sketch/inoutmanager/blob/main/PICTURES/%EC%9C%A0%EC%A0%80%EA%B4%80%EB%A6%AC.png" alt="ユーザー管理" width="400"/> 
+  </p>
+  <p align="center"> ユーザーアカウント情報の確認および必要に応じて削除可能 </p>
+</details>
+
+<details>
+  <summary> 掲示板管理</summary><br>
+  <p align="center">
+    <img src="https://github.com/jongha8422-sketch/inoutmanager/blob/main/PICTURES/%EA%B2%8C%EC%8B%9C%ED%8C%90%20%EA%B4%80%EB%A6%AC.png" alt="掲示板管理" width="400"/> 
+  </p>
+  <p align="center"> すべての投稿を編集または削除可能 </p>
+</details>
+
+<details>
+  <summary> 入出庫履歴管理</summary><br>
+  <p align="center">
+    <img src="https://github.com/jongha8422-sketch/inoutmanager/blob/main/PICTURES/%EC%9E%85%EC%B6%9C%EA%B3%A0%20%EB%82%B4%EC%97%AD%20%EA%B4%80%EB%A6%AC.png" alt="入出庫履歴管理" width="400"/> 
+  </p>
+  <p align="center"> 入庫および出庫履歴を管理者が全体確認可能 </p>
+</details>
+
+<details>
+  <summary> 登録済み製品数確認</summary><br>
+  <p align="center">
+    <img src="https://github.com/jongha8422-sketch/inoutmanager/blob/main/PICTURES/%ED%98%84%EC%9E%AC%20%EB%93%B1%EB%A1%9D%EB%90%98%EC%96%B4%EC%9E%88%EB%8A%94%20%EC%A0%9C%ED%92%88%20%EC%88%98.png" alt="登録済み製品数" width="400"/> 
+  </p>
+  <p align="center"> システムに登録されている製品の総数を確認 </p>
+</details>
+
+<details>
+  <summary> 管理者情報修正</summary><br>
+  <p align="center">
+    <img src="https://github.com/jongha8422-sketch/inoutmanager/blob/main/PICTURES/%EA%B4%80%EB%A6%AC%EC%9E%90%20%EC%A0%95%EB%B3%B4%20%EC%88%98%EC%A0%95.png" alt="管理者情報修正" width="400"/> 
+  </p>
+  <p align="center"> 管理者アカウント情報（パスワード、メールなど）の変更可能 </p>
+</details>
+
+---
